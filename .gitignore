@@ -1,0 +1,8 @@
+node_modules/
+dist/
+artifacts/
+*.tsbuildinfo
+
+# Sistema y herramientas locales
+.DS_Store
+.claude/
